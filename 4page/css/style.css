@@ -14,7 +14,7 @@ body {
   font-weight: 300;
   line-height: 1.5;
   color: #333;
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 a {
@@ -43,8 +43,8 @@ a {
 }
 
 header {
-  background-color: #f6cf61;
-  color: #fff;
+  background-color: white;
+  color: #f6cf61;
   text-align: center;
   padding: 30px 0 40px;
 }
@@ -62,7 +62,7 @@ header h1 {
 .linear-wipe {
   text-align: center;
   cursor: pointer;
-  background: linear-gradient(to right, #fff 50%,  #FF7F62  50%);
+  background: linear-gradient(to right, black 50%,  #f6cf61  50%);
   background-size: 200% auto;
   z-index: 2;
   position: relative;
@@ -109,7 +109,6 @@ svg:hover{
 
 
 .gallery {
-  
   position: relative;
   overflow: hidden;
 }
